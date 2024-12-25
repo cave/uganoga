@@ -1,0 +1,29 @@
+{
+    "name": "uganoga/uganoga",
+    "description": "Obfuscate JavaScript files for Laravel projects.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uganoga\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Uganoga\\UganogaServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Vedran Kapetanovic",
+            "email": "627098+cave@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    }
+}
