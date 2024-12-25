@@ -1,7 +1,7 @@
 
 # Uganoga - JavaScript Obfuscator for Laravel Projects
 
-Uganoga is a lightweight and efficient package for obfuscating JavaScript files in Laravel projects. It provides an easy-to-use Artisan command to obfuscate your JavaScript files and save them in a designated output directory. This is ideal for enhancing the security of your front-end code.
+Uganoga is a lightweight and efficient package for obfuscating JavaScript files in Laravel projects. It provides an easy-to-use Artisan command to obfuscate your JavaScript files and save them in a designated output directory. This is "ideal" for enhancing the security of your front-end code. Worked for me and few other devs, not sure if it'll work for you. uganoga.
 
 ---
 
@@ -10,7 +10,7 @@ Uganoga is a lightweight and efficient package for obfuscating JavaScript files 
 - Obfuscates JavaScript files by encoding them.
 - Configurable input and output paths for flexibility.
 - Integrates seamlessly with Laravel.
-- Simple and straightforward Artisan command for execution.
+- Simple and straightforward (hopefully) Artisan command for execution.
 
 ---
 
@@ -160,17 +160,16 @@ composer require uganoga/uganoga:dev-main
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have feature requests, feel free to submit an issue or pull request on [GitHub](https://github.com/<your-username>/uganoga).
+Contributions are welcome! If you encounter any issues or have feature requests, well, that's not my problem :D
 
 ---
 
 ## License
 
-This package is open-source software licensed under the [MIT license](LICENSE).
+Do whatever you want to do...
 
 ---
 
 ## Acknowledgements
 
-- Inspired by the need for simple yet effective JavaScript obfuscation in modern Laravel projects.
-- Thanks to the Laravel community for their support and resources.
+- None.
